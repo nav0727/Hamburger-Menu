@@ -1,0 +1,29 @@
+.rows {
+  display: flex;
+  color: #000000;
+  align-items: center;
+  font-size: 25px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+  margin-right: 20px;
+  justify-content: space-between;
+}
+.logo {
+  height: 50px;
+}
+.hrLine {
+  border: 1px #616e7c solid;
+  width: 100%;
+}
+.bg {
+  display: flex;
+  flex-direction: column;
+}
+
+ul {
+  list-style-type: none;
+}
